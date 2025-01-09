@@ -16,12 +16,6 @@ To push its boundaries, I trained the model on a **custom dataset of 4,000 image
 ### YOLOv8 Detection Results
 ![YOLOv8 Detection Results](yolo_sample_results/results.jpeg)
 
-### InceptionResNetV2 Results
-![InceptionResNetV2 Results](yolo_sample_results/inception_results.png)
-
-## Training Process
-![Training Process](images/yolov8_training.png)
-
 ## Repository Details
 This repository includes:
 - **Dataset:** Custom YOLO wildlife image dataset with 4,000 images of diverse species.
