@@ -18,7 +18,7 @@ To push its boundaries, I trained the model on a **custom dataset of 4,000 image
 
 ## Repository Details
 This repository includes:
-- **Dataset:** Custom YOLO wildlife image dataset with 4,000 images of diverse species.
+- **Dataset (Source: Roboflow):** Custom YOLO wildlife image dataset with 4,000 images of diverse species.
 - **Weights:** YOLOv8 fine-tuned weights and training artifacts.
 - **Benchmarking Files:** Pickle files and performance metrics for InceptionResNetV2.
 
