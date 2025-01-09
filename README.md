@@ -7,9 +7,9 @@ To push its boundaries, I trained the model on a **custom dataset of 4,000 image
 ## Key Highlights
 - **Fine-Tuning YOLOv8:** Trained the pre-trained `YOLOv8l.pt` model on a custom wildlife dataset to improve its recognition of new species.
 - **Performance Benchmarking:** Trained an **InceptionResNetV2** model to compare its performance against YOLOv8.  
-  - The saved **InceptionResNetV2 pickle file** can be accessed via the [Google Drive link](Related_Files_URL.txt).
+  - The saved **InceptionResNetV2 pickle file** can be accessed via the [Google Drive link](https://drive.google.com/drive/folders/1z1sIb1ZrmX6HVlKe2ohGV9dlWWT9qXX7?usp=sharing).
 - **Results & Resources:**  
-  - YOLO Wildlife image dataset, weights, and results are available through the [Google Drive link](Related_Files).
+  - YOLO Wildlife image dataset, weights, and results are available through the [Google Drive link](https://drive.google.com/drive/folders/1z1sIb1ZrmX6HVlKe2ohGV9dlWWT9qXX7?usp=sharing).
   - Results demonstrate the expanded recognition capabilities and improved detection accuracy.
 
 ## Results
